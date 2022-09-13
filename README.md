@@ -7,10 +7,10 @@ Instacart is an online grocery store that operates through an app. Although, Ins
 # Tools
 This project excessively uses Excel and Python. 
 The following tools and libraries was used in python:
-Anaconda 3
-Jupyter Notebook
-Pandas
-Seaborn
-Matplotlib
-Scipy
-Numpy
+- Anaconda 3
+- Jupyter Notebook
+- Pandas
+- Seaborn
+- Matplotlib
+- Scipy
+- Numpy
